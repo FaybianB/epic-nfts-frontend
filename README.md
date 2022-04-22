@@ -1,13 +1,15 @@
-## Running React on Repl.it
+# Epic NFT
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+### **Welcome 👋**
+This is the front-end codebase for the Epic NFT project. This allows users to mint an NFT from our collection and view them on OpenSea and Rarible.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+*NOTE: Uses Rinkeby network*
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+Mint your Epic NFT today!
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+### **Important Links**
+- Site: https://Epic-NFT.ugongetthisword.repl.co
+- OpenSea collection: https://testnets.opensea.io/collection/epicnft-nuvddg26v4
+- Rarible collection: https://rinkeby.rarible.com/collection/0xB7eecfcA618c2CbB5Fd00Af6863Eb36bCb3f1026/items
+- Etherscan contract: https://rinkeby.etherscan.io/address/0xB7eecfcA618c2CbB5Fd00Af6863Eb36bCb3f1026
+- Smart Contract Codebase: https://github.com/FaybianB/epic-nfts
